@@ -12,3 +12,8 @@ Guia sobre los primeros pasos en Python con ejercicios prácticos resueltos.
 En la carpeta:
 -Bucles
 -Clases
+
+Día 3
+-Librerías
+-Nunpy
+-Prophet
