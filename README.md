@@ -15,5 +15,5 @@ En la carpeta:
 
 Día 3
 -Librerías
--Nunpy
+-Numpy
 -Prophet
