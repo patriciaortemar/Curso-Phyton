@@ -17,3 +17,12 @@ Día 3
   -Librerías
   -Numpy
   -Prophet
+Día 4
+Ejercicio de repaso sobre SpaceX que consta de casi todo lo que hemos visto.
+  -Variables
+  -Columnas
+  -Pip
+  -Imporar cvs
+  -Análisis de datos
+  -Gráficos
+  -Querys (SQL)
